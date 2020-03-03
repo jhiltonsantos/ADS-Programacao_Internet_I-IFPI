@@ -1,2 +1,2 @@
-# ADS-Programacao_Internet_I-IFPI
+# [ADS] Programacao para Internet I - IFPI
 Repositório da disciplina de Programação para a Internet I
